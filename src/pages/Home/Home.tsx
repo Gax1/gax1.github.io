@@ -50,7 +50,7 @@ const Home = () => {
       <Grid xs={12} md={8}>
         <Zoom in={translationTitle}>
           <img
-            src="src\static\images\image1.png"
+            src="/assets/images/image1.png"
             alt="Web development"
             style={{ width: "90%", maxWidth: "550px" }}
           />

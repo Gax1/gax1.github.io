@@ -29,3 +29,5 @@ build
 # Miscellaneous
 *.local
 .env
+
+dist
